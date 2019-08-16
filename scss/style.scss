@@ -1,6 +1,13 @@
 /* [ -- Master Stylesheet -- ] */
 
-
+/* ----------------------------------------------------------
+:: Template Name: Sonar - Photography Template
+:: Author: Colorlib
+:: Author URL: https://colorlib.com
+:: Version: 1.0
+:: Created: March 09, 2018
+:: Last Updated: March 09, 2018
+---------------------------------------------------------- */
 
 @import 'theme_color';
 @import 'variables';
@@ -1463,7 +1470,7 @@ img {
         border-color: #c0c0c0;
         border-radius: 0;
         font-size: 12px;
-        font-style: normal;
+        font-style: italic;
         color: $heading-color;
         background-color: transparent;
         &:focus,
