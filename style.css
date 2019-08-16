@@ -635,7 +635,7 @@ img {
 .hero-slides .owl-dots {
   position: absolute;
   left: 50px;
-  bottom: 50px; }
+  bottom: 30px; }
   .hero-slides .owl-dots .owl-dot {
     width: 8px;
     height: 8px;
@@ -1220,7 +1220,7 @@ img {
   border-color: #c0c0c0;
   border-radius: 0;
   font-size: 12px;
-  font-style: italic;
+  font-style: normal;
   color: #2f2f2f;
   background-color: transparent; }
   .contact-form .form-control:focus, .contact-form .form-control:hover {
