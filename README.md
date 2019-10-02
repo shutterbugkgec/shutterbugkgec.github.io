@@ -1,2 +1,0 @@
-# shutterbugkgec.github.io
- 
